@@ -116,6 +116,8 @@ build-jb .
 ```
   
 **Homework**
+- Improve your Korinek reflection: make it >300 words, and commit improvements over 3 separate days.
+  - Use AI to improve your piece!
 - Revise and improve your Literature Review
   - utilize ChatGPT/Claude and commit improvements over 3 days
 - Begin your data empirical work (regressions, etc.)
