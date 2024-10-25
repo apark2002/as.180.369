@@ -129,7 +129,7 @@ build-jb .
 
 ### Agenda
 
-- Present your literature summary & methodology sections.
+- Present your methodology section and any updates to your literature review section
     - 10 minutes per student.
 - *TA* Short presentation on job talk paper
 - *TA* Coping with Rejection (30 min.)
@@ -145,7 +145,7 @@ build-jb .
     - In the commits you write, please include the prompts you used in ChatGPT.
 
 ## Class 10
-[Zoom link](https://zoom.us/j/99322446014?pwd=TWVRZk9iaUpTTktxa1hoQmREYjRaUT09)
+
 
 ### Agenda
 - Discuss your results section (10 minutes ea).
