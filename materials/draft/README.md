@@ -129,16 +129,23 @@ build-jb .
 
 ### Agenda
 
-- Present your methodology section and any updates to your literature review section
-    - 10 minutes per student.
-- *TA* Short presentation on job talk paper
-- *TA* Coping with Rejection (30 min.)
-    - Rejection from a Journal.
-    - Rejection from Graduate School.
-    - Rejection from a Job.
+- HW Review: prompts people found useful for the Korinek reflection and lit review improvements (10 minutes)
+
+- Instructional on best practices aiding your literature search (20 minutes)
+  - Beyond Litmaps & Paperpile
+
+- Updates on your paper progress (80 minutes)
+  - roadblocks and problems you've encountered
+  - methodology and lit review section updates
+
+    
+- *TA* Git refresher and Cleanup
+
+- Debugging empirical work + How to use AI to help
 
 **Homework**
-- Write the first draft of the results section.
+- Please email your NASA certificate to emurins1@jh.edu
+- Write the first draft of the results section. ([Here's](https://twp.duke.edu/sites/twp.duke.edu/files/file-attachments/econ.original.pdf) a great resource from Duke on writing this and other sections.)
     - You should break your text into a number of smaller markdown cells.
         - This makes it easier to use ChatGPT for editing.
     - Be sure to get ChatGPT feedback on your writing.

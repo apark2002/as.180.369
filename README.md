@@ -7,6 +7,7 @@
 ## Contents
 
 * [Overview](#overview)
+* [Useful Resources](#Useful-Resources)
 * [Instructor—Chris Carroll](#instructorchris-carroll)
   * [Office Hours](#office-hours)
 * [Teaching Assistant—Adrian Monninger](#teaching-assistantadrian-monninger)
@@ -37,6 +38,7 @@ This is an in-person course, held on the Johns Hopkins Homewood Campus:
 | Hours    | Monday 3:00 PM US/Eastern ~ 5:30 PM US/Eastern                                                        |
 | Dates    | Aug 26, 2024 ~ Dec 6, 2024 (See [below](#schedule) for schedule.)                                             |
 | Location | [Hodson 311 (Homewood Campus)](https://www.google.com/maps/dir/Current+Location/39.327538,-76.622306) |
+|Office Hours| Students are welcome to schedule office hours with TA's on an ad-hoc basis                          |
 
 This course will be conducted by your instructor a graduate teaching assistant, supported by an undergraduate teaching assistant:
 
@@ -44,6 +46,12 @@ This course will be conducted by your instructor a graduate teaching assistant, 
 
 - Graduate Teaching Assistant: [Adrian Monninger <amonnin1@jhu.edu>]
 - Undergraduate Teaching Assistant: [Ethan Murinson <emurins1@jhu.edu>]
+
+## Useful Resources
+- Duke Writing in Economics: Economics Research Paper Writing Guide: [Here](https://twp.duke.edu/sites/twp.duke.edu/files/file-attachments/econ.original.pdf)
+- Github Cheat Sheet: [Here](https://education.github.com/git-cheat-sheet-education.pdf)
+
+
 
 
 
