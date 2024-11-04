@@ -172,7 +172,7 @@ languages (though having taken a formal course in such a language is not require
 | 7  | [Mon Oct 14](materials/draft)        | 2. the draft        |                 see this class' agenda          |
 | 8  | [Mon Oct 21](materials/draft)        | 2. the draft        |            see this class' agenda               |
 | 9  | [Mon Oct 28](materials/draft)        | 2. the draft        |                  see this class' agenda         |
-| 10 | [Mon Nov 4](materials/submission)    | 2. the draft        |      First Draft of Paper (submitted online)    |
+| 10 | [Mon Nov 4](materials/draft)         | 2. the draft        |      First Draft of Paper (submitted online)    |
 | 11 | [Mon Nov 11](materials/submission)   | 3. the submission   |             see this class' agenda              |
 | 12 | [Mon Nov 18](materials/presentation) | 4. the presentation |     Final Draft of Paper (submitted online)     |
 | 13 | [Mon Dec 2](materials/presentation)  | 4. the presentation | Final (15-min) Presentation (presented in-class)|
